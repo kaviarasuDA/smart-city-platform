@@ -189,3 +189,4 @@ Stack: `Python · Streamlit · Plotly · Folium · Pandas · NumPy`
 *This platform simulates a production-grade municipal analytics dashboard.
 For real deployments, replace the CSV data source with a live PostgreSQL / InfluxDB feed
 and the heuristic AI model with a trained LSTM or Prophet time-series model.*
+Updated deployment
